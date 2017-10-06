@@ -1,0 +1,10 @@
+D:\Angular and WebApi\api\bin\Debug\netcoreapp2.0\api.deps.json
+D:\Angular and WebApi\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.json
+D:\Angular and WebApi\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.dev.json
+D:\Angular and WebApi\api\bin\Debug\netcoreapp2.0\api.dll
+D:\Angular and WebApi\api\bin\Debug\netcoreapp2.0\api.pdb
+D:\Angular and WebApi\api\obj\Debug\netcoreapp2.0\api.csproj.CoreCompileInputs.cache
+D:\Angular and WebApi\api\obj\Debug\netcoreapp2.0\api.AssemblyInfoInputs.cache
+D:\Angular and WebApi\api\obj\Debug\netcoreapp2.0\api.AssemblyInfo.cs
+D:\Angular and WebApi\api\obj\Debug\netcoreapp2.0\api.dll
+D:\Angular and WebApi\api\obj\Debug\netcoreapp2.0\api.pdb
